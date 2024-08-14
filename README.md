@@ -15,13 +15,13 @@
 
 </div>
 
-1️⃣ [개요]() <br>
+1️⃣ [개요](https://github.com/sami355-24/4CutAlbum-server/blob/main/README.md#-%EA%B0%9C%EC%9A%94) <br>
 
-2️⃣ [기능]() <br>
+2️⃣ [기능](https://github.com/sami355-24/4CutAlbum-server/blob/main/README.md#-%EA%B8%B0%EB%8A%A5) <br>
 
-3️⃣ [기술스택]() <br>
+3️⃣ [기술스택](https://github.com/sami355-24/4CutAlbum-server/blob/main/README.md#%EA%B8%B0%EC%88%A0%EC%8A%A4%ED%83%9D-) <br>
 
-4️⃣ [영상]() <br>
+4️⃣ [영상](https://github.com/sami355-24/4CutAlbum-server/blob/main/README.md#-%EC%98%81%EC%83%81) <br>
 
 ---
 
